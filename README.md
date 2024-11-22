@@ -4,8 +4,8 @@
 
 ### 📕 My Projects :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=darcula&show_icons=true\&repo=PhotoSorter-PowerShell)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=darcula&show_icons=true\&repo=P-Bulle-Snake)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=quemet&theme=darcula&show_icons=true\&repo=AdonneCosmos)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=quemet&theme=darcula&show_icons=true\&repo=P_323-PlotThatLines)
 
 ### 🛠 &nbsp;Languages and Tools :
 
